@@ -32,10 +32,3 @@ This project can be deployed on platforms such as Vercel, Netlify, or any hostin
 ***
 
 
-[4](https://www.reddit.com/r/programming/comments/cfeu99/readme_template_i_use_for_most_of_my_projects/)
-[5](https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/)
-[6](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
-[7](https://ubc-library-rc.github.io/rdm/content/03_create_readme.html)
-[8](https://www.youtube.com/watch?v=eVGEea7adDM)
-[9](https://www.notion.com/templates/study-hub-483)
-[10](https://www.youtube.com/watch?v=E6NO0rgFub4)
