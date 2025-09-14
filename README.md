@@ -1,69 +1,41 @@
+
 # Study Hub VJEC
 
-## Project info
+## Project Info  
+**Live URL:** [studyhub-vjec.web.app](https://studyhub-vjec.web.app)  
 
-**URL**: https://studyhub-vjec.vercel.app
+## About Study Hub VJEC  
+Study Hub VJEC is a platform created by a team of passionate VJEC students to simplify and support the academic journey with useful tools and resources.
 
-## About Study Hub VJEC
-
-Created by a team of passionate VJECians, this platform brings together essential tools and resources to simplify your academic journey.
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
+## How to Edit This Project  
+To work locally, simply clone the repository:  
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 ```
+After cloning, install dependencies and start the dev server as described in the project.
 
-**Edit a file directly in GitHub**
+## Contribution Guidelines  
+Only **Vimal Jyothi Engineering College students** are allowed to contribute directly to this repository.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Technologies Used  
+- Vite  
+- TypeScript  
+- React  
+- shadcn-ui  
+- Tailwind CSS  
 
-**Use GitHub Codespaces**
+## Deployment  
+This project can be deployed on platforms such as Vercel, Netlify, or any hosting service that supports React apps.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+.
 
-## What technologies are used for this project?
+***
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-You can deploy this project to various platforms like Vercel, Netlify, or any other hosting service that supports React applications.
-
-## Can I connect a custom domain to my Study Hub VJEC project?
-
-Yes, you can!
-
-To connect a domain, you'll need to configure it through your hosting provider's settings and update your DNS records accordingly.
+[4](https://www.reddit.com/r/programming/comments/cfeu99/readme_template_i_use_for_most_of_my_projects/)
+[5](https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/)
+[6](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/)
+[7](https://ubc-library-rc.github.io/rdm/content/03_create_readme.html)
+[8](https://www.youtube.com/watch?v=eVGEea7adDM)
+[9](https://www.notion.com/templates/study-hub-483)
+[10](https://www.youtube.com/watch?v=E6NO0rgFub4)
