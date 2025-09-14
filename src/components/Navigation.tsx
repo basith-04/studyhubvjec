@@ -9,9 +9,10 @@ interface NavigationProps {
   userPrefs?: { branch: string; semester: string } | null;
   onSettingsClick: () => void;
   showBackButton?: boolean;
+  onBackClick?: () => void;
 }
 
-const Navigation = ({ userPrefs, onSettingsClick, showBackButton }: NavigationProps) => {
+const Navigation = ({ userPrefs, onSettingsClick, showBackButton, onBackClick }: NavigationProps) => {
   const [isOpen, setIsOpen] = useState(false);
   const location = useLocation();
   const navigate = useNavigate();
@@ -27,8 +28,12 @@ const Navigation = ({ userPrefs, onSettingsClick, showBackButton }: NavigationPr
   const isActive = (path: string) => location.pathname === path;
 
   const handleBackClick = () => {
-    navigate(-1);
-  };
+    if (typeof onBackClick === 'function') {
+      onBackClick();
+    } else {
+      navigate(-1);
+    }
+  }
 
   return (
     <header className="bg-background/80 backdrop-blur-md border-b sticky top-0 z-40">

@@ -965,6 +965,7 @@ const Resources = () => {
         userPrefs={userPrefs}
         onSettingsClick={() => setShowSettingsModal(true)}
         showBackButton={currentView !== 'subjects'}
+        onBackClick={handleBackClick}
       />
 
       {/* Page Content */}
