@@ -205,10 +205,10 @@ const Resources = () => {
             },
             {
               number: 4,
-              title: 'Exception Handling',
+              title: 'awt,swing,jdbc',
               contributors: [{ name: 'Ashin chacko', class: 'S3 CSE A' }],
               materials: {
-                answerKey: 'https://drive.google.com/file/d/30def/view',
+                answerKey: 'https://docs.google.com/document/d/1BGBKn5knZM7jVEQXcVpm5YDRWWVMdU9ZR7nFaZNKXlA/edit?usp=sharing',
                 notes: null,
                 mindMap: null,
                 audio: null

@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "dist",
-    "site": "studyhubvjec",
     "ignore": [
       "firebase.json",
       "**/.*",
